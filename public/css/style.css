@@ -1,0 +1,19 @@
+main {
+  padding: 50px 0;
+}
+
+.listing-title, .card {
+  margin-bottom: 30px;
+}
+
+footer {
+  line-height: 60px;
+  background: #333;
+  color: #fff;
+}
+
+.img-fluid {
+  width: 50%;
+}
+
+/*# sourceMappingURL=style.css.map */
